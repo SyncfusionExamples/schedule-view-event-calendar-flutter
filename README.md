@@ -1,2 +1,2 @@
-# schedule-view-event-calendar-flutter
-How do I view schedule in Flutter event calendar (SfCalendar)?
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/11803/how-do-i-view-schedule-in-flutter-event-calendar-sfcalendar)**
+
