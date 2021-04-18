@@ -10,16 +10,16 @@ class ScheduleView extends StatefulWidget {
 }
 
 class ScheduleViewState extends State<ScheduleView> {
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-
         home: Scaffold(
-          body: SfCalendar(
-            view: CalendarView.schedule,
-            dataSource: _getDataSource(),
+          body: SafeArea(
+            child: SfCalendar(
+              view: CalendarView.schedule,
+              dataSource: _getDataSource(),
+            ),
           ),
         ));
   }
