@@ -4,6 +4,8 @@ A quick-start example to help you to view schedule in the Flutter Calendar.
 
 You can create a schedule view for the Flutter Event Calendar by using the calendar's [view](https://help.syncfusion.com/flutter/calendar/getting-started#change-different-calendar-views) property and setting the calendar view mode to'schedule'.
 
+![ScheduleView](https://user-images.githubusercontent.com/46158936/209138582-6ab3da0c-1581-4134-a531-8603200e6d15.png)
+
 Fore more details, refer to our UG documentation [ScheduleView](https://help.syncfusion.com/flutter/calendar/schedule-view)
 
 ## Requirements to run the demo
